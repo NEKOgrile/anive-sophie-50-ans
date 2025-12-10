@@ -12,11 +12,11 @@ function PhotoGallery() {
         </p>
 
         <div className="space-y-12">
-          <div className="relative overflow-hidden rounded-3xl shadow-2xl transform transition-transform duration-500 hover:scale-105">
+          <div className="relative overflow-hidden rounded-3xl shadow-2xl transform transition-transform duration-500 hover:scale-105 h-96 md:h-[500px]">
             <img
-              src="https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              src="/image/IMG_20251210_124842.jpg"
               alt="Sophie - 50 ans"
-              className="w-full h-auto object-cover"
+              className="w-full h-full object-cover"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
           </div>
