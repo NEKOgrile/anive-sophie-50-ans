@@ -14,7 +14,7 @@ function PhotoGallery() {
         <div className="space-y-12">
           <div className="relative overflow-hidden rounded-3xl shadow-2xl transform transition-transform duration-500 hover:scale-105 h-96 md:h-[500px]">
             <img
-              src="/image/IMG_20251210_124842.jpg"
+              src="../image/IMG_20251210_124842.jpg"
               alt="Sophie - 50 ans"
               className="w-full h-full object-cover"
             />
