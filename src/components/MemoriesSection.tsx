@@ -9,7 +9,7 @@ const memories = [
   },
   {
     icon: Sparkles,
-    title: '50 années de lumière',
+    title: '51 années de lumière',
     text: 'Chaque année a été marquée par des moments magiques, des rires partagés et des souvenirs précieux.',
     color: 'from-amber-500 to-yellow-500'
   },
@@ -27,7 +27,7 @@ const messages = [
     author: 'Ta famille qui t\'aime'
   },
   {
-    text: '50 ans et toujours aussi rayonnante ! Merci pour tous ces merveilleux moments partagés ensemble.',
+    text: '51 ans et toujours aussi rayonnante ! Merci pour tous ces merveilleux moments partagés ensemble.',
     author: 'Tes amis'
   },
   {
@@ -93,7 +93,7 @@ function MemoriesSection() {
               🎂 Bonne fête Sophie ! 🎂
             </p>
             <p className="text-xl text-white/90">
-              Que tes 50 ans soient le début d'un nouveau chapitre extraordinaire
+              Que tes 51 ans soient le début d'un nouveau chapitre extraordinaire
             </p>
           </div>
         </div>

@@ -9,14 +9,14 @@ function PhotoGallery() {
           Un Moment Spécial
         </h2>
         <p className="text-center text-gray-600 text-xl mb-16">
-          Pour célébrer ces 50 magnifiques années
+          Pour célébrer ces 51 magnifiques années
         </p>
 
         <div className="space-y-12">
           <div className="relative overflow-hidden rounded-3xl shadow-2xl transform transition-transform duration-500 hover:scale-105 h-96 md:h-[500px]">
             <img
               src={sophiePhoto}
-              alt="Sophie - 50 ans"
+              alt="Sophie - 51 ans"
               className="w-full h-full object-cover"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>

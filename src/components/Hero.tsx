@@ -25,7 +25,7 @@ function Hero({ onCakeClick }: HeroProps) {
           </div>
 
           <h1 className="text-7xl md:text-9xl font-bold bg-gradient-to-r from-rose-500 via-pink-500 to-amber-500 bg-clip-text text-transparent mb-4">
-            50 ans
+            51 ans
           </h1>
 
           <h2 className="text-4xl md:text-6xl font-serif text-gray-800 mb-6">
@@ -50,11 +50,9 @@ function Hero({ onCakeClick }: HeroProps) {
           </span>
         </button>
 
-        <p className="text-xl md:text-2xl text-gray-600 italic mt-8">
-          "50 ans de joie, de rires et de merveilleux souvenirs"
-        </p>
-
-        <div className="pt-12 animate-bounce">
+          <p className="text-xl md:text-2xl text-gray-600 italic mt-8">
+            "51 ans de joie, de rires et de merveilleux souvenirs"
+          </p>        <div className="pt-12 animate-bounce">
           <ChevronDown className="w-8 h-8 text-rose-500 mx-auto" />
         </div>
       </div>
